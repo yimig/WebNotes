@@ -11,7 +11,8 @@
       - *[选择器和伪类](part1/css/selector.md)*
       - [层叠性权重计算](part1/css/css-weight.md)
       - [文字样式属性](part1/css/text-property.md)
-      - [盒模型\*](part1/css/box-model.md)
+      - [盒模型](part1/css/box-model.md)
+      - [初阶排版*](part1/css/beginning-typesetting.md)
 
 
 ## 备注

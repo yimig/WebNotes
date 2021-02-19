@@ -51,3 +51,13 @@ padding:|上下左右|
     padding:0;
 }
 ```
+
+## 盒子的水平居中
+
+左右设为auto。即`margin:0 auto`。
+
+垂直居中用**绝对定位**。
+
+## box-sizing
+
+给盒子添加`box-sizing:border-box`后，合资的width、height数字就表示为实际占有的宽高（不含margin），即**padding、border不再“外扩”而是“内缩”**，常用于移动网页开发。
