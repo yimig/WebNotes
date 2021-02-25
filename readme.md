@@ -14,6 +14,7 @@
       - [盒模型](part1/css/box-model.md)
       - [初阶排版](part1/css/beginning-typesetting.md)
       - [边框border属性](part1/css/border.md)
+      - [背景图片](part1/css/background.md)
 
 
 ## 备注

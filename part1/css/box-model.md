@@ -9,6 +9,8 @@
 |border: 宽度 类型 颜色;|border:10px solid red;|
 |-|-|
 
+详细内容参见[边框border属性](border.md)
+
 ## padding
 
 赋值顺序为**上右下左** 即从上开始的顺时针赋值。
