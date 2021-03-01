@@ -1,4 +1,4 @@
-# 边框border属性
+# 1.1.6 边框border属性
 
 ## border三要素
 

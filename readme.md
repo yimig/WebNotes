@@ -18,6 +18,8 @@
       - [初阶排版](part1/css/beginning-typesetting.md)
       - [边框border属性](part1/css/border.md)
       - [背景图片](part1/css/background.md)
+      - [变形](part1/css/transform.md)
+      - [过渡和动画](part1/css/animation.md)
 
 
 ## 备注
