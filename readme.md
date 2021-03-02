@@ -20,6 +20,8 @@
       - [背景图片](part1/css/background.md)
       - [变形](part1/css/transform.md)
       - [过渡和动画](part1/css/animation.md)
+   1. JavaScript
+      - [引论与术语](part1/js/introduction.md)
 
 
 ## 备注

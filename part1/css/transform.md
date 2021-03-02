@@ -62,5 +62,24 @@ transform:scale(3);
 
 >值没有单位，表示缩放倍数，当值小于1是表示缩小元素，大于1是表示放大元素。
 
+## 斜切变形
 
+将transform的属性的值设置为`skew()` ，即可实现斜切变形。
+
+```
+transform:skew(x斜切角度,y斜切角度)
+transform:skew(10deg,20deg)
+```
+
+>效果类似侧向拉伸/扭曲
+
+## 位移变形
+
+将transform属性的值设置为`translate()`，即可实现位移变形。
+
+```
+transform:translate(向右移动,向左移动)
+transform:translate(100px,200px)
+```
+>实现效果与**相对定位**非常像，位移变形也会“老家留坑”、“形影分离”。
 
