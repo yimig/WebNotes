@@ -22,6 +22,9 @@
       - [过渡和动画](part1/css/animation.md)
    1. JavaScript
       - [引论与术语](part1/js/introduction.md)
+      - [变量](part1/js/variable.md)
+      - *[流程控制语句](part1/js/flow-control.md)*
+      - [数组*](part1/js/array.md)
 
 
 ## 备注
