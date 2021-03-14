@@ -24,7 +24,10 @@
       - [引论与术语](part1/js/introduction.md)
       - [变量](part1/js/variable.md)
       - *[流程控制语句](part1/js/flow-control.md)*
-      - [数组*](part1/js/array.md)
+      - [数组](part1/js/array.md)
+      - [数据格式](part1/js/data-format.md)
+      - [函数](part1/js/function.md)
+      - [闭包](part1/js/closure.md)
 
 
 ## 备注
